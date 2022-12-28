@@ -16,5 +16,5 @@ just some text from master branch
 
 новая строка после которой будем сливать 3 ветви в одну
 
-
+str2
 str3
