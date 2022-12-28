@@ -7,3 +7,5 @@ update text. END.
 Show GIT PUSH command.
 
 Some new text here
+
+just some text from master branch
