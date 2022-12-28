@@ -1,4 +1,4 @@
-conflict2
+conflict1
 
 header
 
